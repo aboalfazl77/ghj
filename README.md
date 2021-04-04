@@ -1,0 +1,1 @@
+[{"متن":"قسمت اول","متن پست":"ادامه ی اموزش بالا","لینک":"https://s17.picofile.com/file/8429640718/IMG_20210329_041036_011.jpg","پخش":"\u003cdiv id\u003d\"37767772862\"\u003e\u003cscript type\u003d\"text/JavaScript\" src\u003d\"https://www.aparat.com/embed/DHltb?data[rnddiv]\u003d37767772862\u0026data[responsive]\u003dyes\"\u003e\u003c/script\u003e\u003c/div\u003e"}]
